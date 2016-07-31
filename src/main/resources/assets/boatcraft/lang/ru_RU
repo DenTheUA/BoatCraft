@@ -1,0 +1,43 @@
+core.module.linkingword=с
+
+core.forms.dinghy.name=Шлюпка
+
+#_mat_ -> Локализованное имя материала
+#_form_ -> Локализованное имя формы
+#_link_ -> Локализованное объединительное слово
+#_block_ -> Локализованное название блока
+core.forms.dinghy.format=_mat_ _form_ _link_ _block_
+core.forms.dinghy.empty.format=_mat_ _form_
+
+vanilla.materials.wood.oredict.name=Древесина
+
+vanilla.materials.wood.oak.name=Дуб
+vanilla.materials.wood.spruce.name=Сосна
+vanilla.materials.wood.birch.name=Берёза
+vanilla.materials.wood.jungle.name=Тропическое дерево
+vanilla.materials.wood.acacia.name=Акация
+vanilla.materials.wood.darkoak.name=Тёмный дуб
+
+vanilla.materials.metal.iron.name=Железо
+vanilla.materials.metal.gold.name=Золото
+
+vanilla.materials.crystal.obsidian.name=Обсидиан
+vanilla.materials.crystal.diamond.name=Алмаз
+vanilla.materials.crystal.emerald.name=Изумруд
+
+vanilla.blocks.chest.name=Сундук
+vanilla.blocks.furnace.name=Печка
+vanilla.blocks.workbench.name=Верстак
+vanilla.blocks.tnt.name=Динамит
+
+vanilla.blocks.chest.gui.title=Лодка с сундуком
+vanilla.blocks.furnace.gui.title=Лодка с печкой
+vanilla.blocks.workbench.gui.title=Лодка с верстаком
+
+industrialcraft2.materials.rubber.name=Резина
+industrialcraft2.materials.carbon.name=Карбоновая трубка
+
+industrialcraft2.blocks.generator.name=Генератор
+industrialcraft2.blocks.nuke.name=Ядерная бомба
+
+buildcraft.blocks.tank=Цистерна
